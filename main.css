@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    background-color: rgb(247, 247, 247) ;
+}
+
+header {
+    padding: 140px;
+}
+
+form{
+    text-align: center;
+}
+
+form h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+input, button{
+    padding: 8px;
+    font-size: 30px;
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+}
+
+button{
+    cursor:pointer;
+    background-color: rgb(6, 214, 204)  ;
+    color:rgb(0, 0, 0)
+}
+
+ul{
+    display:list-item;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    cursor:pointer;
+    
+}
+
+.riscado {
+
+    text-decoration: line-through;
+}
+
